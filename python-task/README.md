@@ -24,7 +24,6 @@ api1           | INFO:     Application startup complete.
 
 ##### Full workflow test:
 ![](https://github.com/milanchanstveni/revenue.ai/blob/main/python-task/python-task.gif)
-<video src="https://github.com/milanchanstveni/revenue.ai/blob/main/python-task/python-task.mp4" controls="controls" style="max-width: 730px;"></video>
 
 
 #### Test:
