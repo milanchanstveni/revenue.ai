@@ -23,7 +23,7 @@ api1           | INFO:     Application startup complete.
 
 
 ##### Full workflow test:
-![](https://raw.githubusercontent.com/milanpantelic/sustain-ssh/master/sustain_usage.gif)
+![](https://github.com/milanchanstveni/revenue.ai/blob/main/python-task/python-task.mp4)
 
 
 
