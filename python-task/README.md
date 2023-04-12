@@ -6,7 +6,7 @@ In your terminal/console, navigate to *python-task* project folder and run comma
 ```
 docker-compose up
 ```
-Once you see messages bellow you can open this [url](http://0.0.0.0:5002/) in your browser:
+Once you see messages bellow in your termanal/console you can open this [url](http://0.0.0.0:5002/) in your browser:
 ```
 api2           | INFO:     | 2023-04-12 16:26:09 | Server started.
 api2           | INFO:     Application startup complete.
