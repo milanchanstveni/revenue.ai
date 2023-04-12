@@ -1,0 +1,17 @@
+version: '3'
+services:
+  gui-ploty:
+    build:
+      context: .
+      dockerfile: Dockerfile.gui
+    container_name: gui-ploty
+    networks:
+      - app-tier
+    ports: 
+      - 5002:5002
+    volumes:
+      - .:/app
+
+networks:
+  app-tier:
+    driver: bridge
